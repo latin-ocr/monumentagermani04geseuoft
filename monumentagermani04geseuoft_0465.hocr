@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagermani04geseuoft/monumentagermani04geseuoft_0465.png"; bbox 0 0 1862 380; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 682 146 831 179">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 682 146 831 179">
+     <span class='ocr_line' id='line_1_1' title="bbox 682 146 831 179; baseline -0.02 -7"><span class='ocrx_word' id='word_1_1' title='bbox 682 147 717 172; x_wconf 78' lang='lat' dir='ltr'><em>ad</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 738 155 764 179; x_wconf 81' lang='lat' dir='ltr'><em>p.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 781 146 831 170; x_wconf 57' lang='lat'><em>425</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 209 224 1290 300">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 209 224 1290 300">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 224 1290 256; baseline -0.003 -6"><span class='ocrx_word' id='word_1_4' title='bbox 222 229 268 250; x_wconf 91' lang='lat' dir='ltr'><em>VII</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 291 227 329 256; x_wconf 80' lang='lat'><em>12,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 354 227 381 250; x_wconf 77' lang='lat'><em>17</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 419 227 469 249; x_wconf 76' lang='lat' dir='ltr'><em>dele</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 488 226 671 249; x_wconf 74' lang='lat' dir='ltr'><em>adnotationem</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 693 225 881 254; x_wconf 57' lang='lat' dir='ltr'><strong>[pulvhcrrimus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 903 225 976 246; x_wconf 61' lang='lat' dir='ltr'>Astur</span> <span class='ocrx_word' id='word_1_11' title='bbox 1002 224 1067 252; x_wconf 58' lang='grc' dir='ltr'><em>γεω.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1091 224 1150 248; x_wconf 77' lang='lat' dir='ltr'><em>Aen,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1174 225 1201 252; x_wconf 60' lang='lat' dir='ltr'><em>X,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1229 226 1290 253; x_wconf 65' lang='grc'><em>180)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 209 269 746 300; baseline -0.006 -7"><span class='ocrx_word' id='word_1_15' title='bbox 209 271 260 294; x_wconf 83' lang='lat' dir='ltr'>ind.</span> <span class='ocrx_word' id='word_1_16' title='bbox 283 274 352 293; x_wconf 80' lang='lat' dir='ltr'>metr.</span> <span class='ocrx_word' id='word_1_17' title='bbox 374 278 398 300; x_wconf 84' lang='lat' dir='ltr'><em>p.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 415 269 464 293; x_wconf 74' lang='lat'><em>425</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 484 269 535 292; x_wconf 81' lang='lat' dir='ltr'><em>dele</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 555 269 682 292; x_wconf 74' lang='lat' dir='ltr'>instabilis</span> <span class='ocrx_word' id='word_1_21' title='bbox 701 270 746 291; x_wconf 74' lang='lat' dir='ltr'><em>ete.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
